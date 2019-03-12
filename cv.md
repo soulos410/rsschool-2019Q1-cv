@@ -13,10 +13,11 @@
    - SASS.
 
 5. Code examples:
+   <br>
 
-   - ![Code-example1](/img/code-example1.JPG)
+- ![Code-example1](/img/code-example1.JPG)
 
-   - ![Code-example2](/img/code-example2.JPG)
+- ![Code-example2](/img/code-example2.JPG)
 
 6. Experience:
    - HTML, CSS, Javascript tests,
