@@ -16,3 +16,12 @@ li {
     display: flex;
     flex-direction: column;
 }
+
+.main__photo {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    background-image: url("./img/myself.jpg");
+    border-radius: 50%;
+    background-position: -83px -15px;
+}
