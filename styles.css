@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+.cv__main-content {
+    width: 1024px;
+    margin: 0 auto;
+    font-family: "Lato";
+    font-size: 18px;
+}
+
+li {
+    text-align: justify;
+    margin: 0 0 15px 0;
+}
+
+.main__list {
+    display: flex;
+    flex-direction: column;
+}
+
+.main__photo {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    background-image: url("./img/myself.jpg");
+    border-radius: 50%;
+    background-position: -83px -15px;
+}
